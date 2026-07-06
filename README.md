@@ -13,8 +13,6 @@
 🧠 Passionate about **clean architecture**, **UI/UX**, and **creative layout solutions**  
 🌱 Currently exploring **C**, low-level programming, and **BI tools**  
 
-> *"I believe great products are built at the intersection of engineering excellence and design thinking."*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -39,21 +37,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whigjet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=whigjet&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whigjet&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=whigjet&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" height="180"/>
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whigjet&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph"/>
 </div>
 
 ---
