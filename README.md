@@ -45,10 +45,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Methodologies:**  
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
@@ -56,14 +52,6 @@
 
 **Currently Learning:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=whigjet&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="180"/>
-</div>
 
 ---
 
